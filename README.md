@@ -40,6 +40,6 @@ The task is to accurately predict the Length of Stay for each patient on case by
 The evaluation metric for this hackathon is 100*Accuracy Score.
 
 ## Leaderboard
-Private LB: 
+Private LB: 20/467
 
-Public LB: 
+Public LB: 18/467
